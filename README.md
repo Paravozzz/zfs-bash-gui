@@ -2,7 +2,7 @@
 
 ## Description
 This is a simple bash GUI for OpenZFS file system.
-It allow to manage pools.
+It allow to manage pools: create, delete, display status.
 
 ## Dependences
 * Package zfsutils-linux
